@@ -24,3 +24,4 @@ python training\check_manifests.py
 ## Status
 Day 1: Project setup, environment, dataset manifest scaffold, cloud GPU workspace
 Day 2: Created Kaggle manifests (train/val/test) with binary melanoma label and committed them.
+Day 3: Added baseline EfficientNet training pipeline with metrics + confusion matrix outputs.
