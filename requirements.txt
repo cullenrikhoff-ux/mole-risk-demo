@@ -2,6 +2,7 @@ matplotlib>=3.7
 pandas>=2.0
 pillow
 scikit-learn
+streamlit
 timm
 torch
 torchvision
